@@ -103,8 +103,8 @@ export default class Home extends Component {
                 <div className="col-md-7 col-sm-12 padding-70px-left md-padding-50px-left xs-padding-15px-left">
                     <div className="padding-20px-left sm-no-padding">
                         <h4 className="margin-5px-bottom alt-font font-size26 md-font-size24 xs-font-size20">Visi</h4>
-                        <p className="font-size15 xs-font-size14">RAjut Asa, Rangkai Karya, Gapai Cita</p>
-                        <h4 className="margin-5px-bottom alt-font font-size26 md-font-size24 xs-font-size20">Visi</h4>
+                        <p className="font-size15 xs-font-size14">Rajut Asa, Rangkai Karya, Gapai Cita</p>
+                        <h4 className="margin-5px-bottom alt-font font-size26 md-font-size24 xs-font-size20">Misi</h4>
                         <div className="font-size15 xs-font-size14">
                             <ol>
                                 <li>Berkolaborasi secara komprehensif demi terciptanya kreasi nyata bagi seluruh
